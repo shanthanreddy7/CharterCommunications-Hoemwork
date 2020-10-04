@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleApp.Droid", "SampleApp.Droid\SampleApp.Droid.csproj", "{1887D4AB-8EAF-44CB-AE92-D15D4DD18702}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SampleApp.Core", "SampleApp.Core\SampleApp.Core.csproj", "{3D1D4FFD-228F-44D9-B11D-E7D8FB1F76D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1887D4AB-8EAF-44CB-AE92-D15D4DD18702}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1887D4AB-8EAF-44CB-AE92-D15D4DD18702}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1887D4AB-8EAF-44CB-AE92-D15D4DD18702}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{1887D4AB-8EAF-44CB-AE92-D15D4DD18702}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1887D4AB-8EAF-44CB-AE92-D15D4DD18702}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1887D4AB-8EAF-44CB-AE92-D15D4DD18702}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{3D1D4FFD-228F-44D9-B11D-E7D8FB1F76D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D1D4FFD-228F-44D9-B11D-E7D8FB1F76D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D1D4FFD-228F-44D9-B11D-E7D8FB1F76D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D1D4FFD-228F-44D9-B11D-E7D8FB1F76D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BBC5204D-4FD7-4DD6-BD2B-50B3B59725EA}
+	EndGlobalSection
+EndGlobal

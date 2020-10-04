@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+  <dimen name="small">8sp</dimen>
+  <dimen name="medium">16sp</dimen>
+  <dimen name="large">24sp</dimen>
+  <dimen name="xlarge">32sp</dimen>
+</resources>
